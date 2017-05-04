@@ -32,5 +32,7 @@ Verifier que l'adresse mail est bien une adresse mail, vérifier que le numéro 
 Créer un formulaire demandant le nom, le prénom, la date de naissance, le lieu de naissance, l'emploi et la société.
 Créer un bouton "Générer" permettant de créer une courte phrase de présentation.
 
-       * Exemple : Si les données saisies sont : "Jérôme OTT, 5/06/1990, Margny-lès-Compiègne, Formateur, Novei". 
-       * La phrase de présentation sera : "Jérôme OTT, né le 5/06/1990 à Margny-lès-Compiègne, actuellement Formateur à Novei
+       * Exemple : Si les données saisies sont :
+        - "Jérôme OTT, 5/06/1990, Margny-lès-Compiègne, Formateur, Novei". 
+       * La phrase de présentation sera :
+        - "Jérôme OTT, né le 5/06/1990 à Margny-lès-Compiègne, actuellement Formateur à Novei
