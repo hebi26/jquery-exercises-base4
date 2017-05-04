@@ -34,8 +34,8 @@ Créer un bouton "Générer" permettant de créer une courte phrase de présenta
 
 * Exemple : Si les données saisies sont :
 
-       Jérôme OTT, 5/06/1990, Margny-lès-Compiègne, Formateur, Novei". 
+       JEAN SÉRIEN, 5/06/1990, Trouperdu, Directeur des ventes, YAMAMOTO. 
        
 * La phrase de présentation sera :
 
-       Jérôme OTT, né le 5/06/1990 à Margny-lès-Compiègne, actuellement Formateur à Novei.
+      JEAN SÉRIEN, né le 5/06/1990 à Trouperdu, actuellement Directeur des ventes à YAMAMOTO.
